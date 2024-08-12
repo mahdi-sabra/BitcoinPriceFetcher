@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B+4tn7zpEtjVQjapFovEiZqLuXWZfsoSX6HnSBo+v8U=",
+  "Source": "BitcoinPriceFetcher",
+  "BasePath": "_content/BitcoinPriceFetcher",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
